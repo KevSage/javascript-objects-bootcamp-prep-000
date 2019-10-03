@@ -1,3 +1,3 @@
 var playlist = {
-  JohnColtrane = "A Love Supreme"
+  JohnColtrane: "A Love Supreme"
 }
